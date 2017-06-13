@@ -1,4 +1,4 @@
-# This is my Code Chef Solutions
+# This is my CodeChef Solutions Collection
 
 Click [here](https://www.codechef.com/users/rohit25negi) to View my CodeChef Profile.
 
